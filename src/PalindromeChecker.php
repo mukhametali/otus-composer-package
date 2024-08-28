@@ -13,9 +13,3 @@ class PalindromeChecker
     }
 
 }
-
-// Пример использования
-$checker = new PalindromeChecker();
-$string = "A man, a plan, a canal, Panama";
-echo $checker->isPalindrome($string) ? "Palindrome" : "Not a palindrome";
-echo PHP_EOL;
