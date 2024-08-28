@@ -1,6 +1,6 @@
 <?php
 
-namespace MukhametaliKussaiynov\PalindromeChecker;
+namespace MukhametaliKussaiynov\OtusComposerPackage;
 
 class PalindromeChecker
 {
