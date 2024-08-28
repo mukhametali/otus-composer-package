@@ -1,0 +1,17 @@
+{
+    "name": "mukhametali-kussaiynov/otus-composer-package",
+    "description": "A simple package to check if a string is a palindrome.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "MukhametaliKussaiynov\\OtusComposerPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mukhametali Kussaiynov",
+            "email": "m.kussaiynov1996@gmail.com"
+        }
+    ],
+    "require": {}
+}
