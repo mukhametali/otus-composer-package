@@ -13,5 +13,7 @@
             "email": "m.kussaiynov1996@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^8.0"
+    }
 }
